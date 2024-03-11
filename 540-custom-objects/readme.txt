@@ -1,0 +1,3 @@
+You can place specific objects here, which you then use during the merger to add to folders in the ISO folder structure. 
+
+I for example, added a spash-screen here that could be shown on the GRUB menu. Later scripts then use this source to copy it to an appropriate location on the .ISO folder structures that is going to be exported to a startup disk...
